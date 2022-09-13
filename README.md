@@ -1,3 +1,5 @@
+<!-- VS Code에서 Preview Markdown 기능 사용>
+
 <!-- Heading -->
 # Git_Project
 
